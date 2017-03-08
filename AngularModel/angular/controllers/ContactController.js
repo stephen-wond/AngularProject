@@ -3,3 +3,5 @@
     };
     app.controller("ContactController", ContactController);
 }(angular.module("app")));
+
+//contact and location

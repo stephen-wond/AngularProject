@@ -89,16 +89,14 @@
   <ItemGroup>
     <Content Include="angular\app.js" />
     <Content Include="angular\controllers\AboutController.js" />
-    <Content Include="angular\controllers\ClubsController.js" />
+    <Content Include="angular\controllers\TEMPClubsController.js" />
     <Content Include="angular\controllers\ContactController.js" />
-    <Content Include="angular\controllers\EventsController.js" />
-    <Content Include="angular\controllers\GradingsController.js" />
+    <Content Include="angular\controllers\ServicesController.js" />
     <Content Include="angular\controllers\HomeController.js" />
     <Content Include="angular\views\about.html" />
-    <Content Include="angular\views\clubs.html" />
+    <Content Include="angular\views\TEMPclubs.html" />
     <Content Include="angular\views\contact.html" />
-    <Content Include="angular\views\events.html" />
-    <Content Include="angular\views\gradings.html" />
+    <Content Include="angular\views\services.html" />
     <Content Include="angular\views\home.html" />
     <Content Include="index.html" />
     <Content Include="lib\bs\bootstrap-theme.min.css" />
