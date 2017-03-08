@@ -7,12 +7,8 @@
                 { templateUrl: "/angular/views/home.html", controller: "HomeController" })
             .when("/about",
                 { templateUrl: "/angular/views/about.html", controller: "AboutController" })
-            .when("/events",
-                { templateUrl: "/angular/views/events.html", controller: "EventsController" })
-            .when("/gradings",
-                { templateUrl: "/angular/views/gradings.html", controller: "GradingsController" })
-            .when("/clubs",
-                { templateUrl: "/angular/views/clubs.html", controller: "ClubsController" })
+            .when("/services",
+                { templateUrl: "/angular/views/services.html", controller: "ServicesController" })
             .when("/contact",
                 { templateUrl: "/angular/views/contact.html", controller: "ContactController" })
             .otherwise(
