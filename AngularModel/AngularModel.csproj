@@ -53,9 +53,6 @@
     <Content Include="template\css\icomoon\icomoon.eot" />
     <Content Include="template\css\icomoon\icomoon.ttf" />
     <Content Include="template\css\icomoon\icomoon.woff" />
-    <Content Include="template\img\bg\.DS_Store" />
-    <Content Include="template\img\portfolio\.DS_Store" />
-    <Content Include="template\img\team\.DS_Store" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -91,28 +88,23 @@
     <Content Include="template\css\icomoon.css" />
     <Content Include="template\css\icomoon\icomoon.svg" />
     <Content Include="template\css\main.css" />
-    <Content Include="template\img\bg\divider1.jpg" />
-    <Content Include="template\img\bg\divider2.jpg" />
-    <Content Include="template\img\bg\divider3.jpg" />
-    <Content Include="template\img\bg\divider4.jpg" />
-    <Content Include="template\img\header_bg.jpg" />
+    <Content Include="template\img\logo\dons.gif" />
+    <Content Include="template\img\logo\HDNut.gif" />
     <Content Include="template\img\Headshot-sm.png" />
     <Content Include="template\img\Headshot.png" />
-    <Content Include="template\img\iphone.png" />
-    <Content Include="template\img\macbook.png" />
-    <Content Include="template\img\portfolio\folio01.jpg" />
-    <Content Include="template\img\portfolio\folio02.jpg" />
-    <Content Include="template\img\portfolio\folio03.jpg" />
-    <Content Include="template\img\portfolio\folio04.jpg" />
-    <Content Include="template\img\portfolio\folio05.jpg" />
-    <Content Include="template\img\portfolio\folio06.jpg" />
-    <Content Include="template\img\portfolio\folio07.jpg" />
-    <Content Include="template\img\portfolio\folio08.jpg" />
-    <Content Include="template\img\portfolio\folio09.jpg" />
-    <Content Include="template\img\team\team01.jpg" />
-    <Content Include="template\img\team\team02.jpg" />
-    <Content Include="template\img\team\team03.jpg" />
-    <Content Include="template\img\team\team04.jpg" />
+    <Content Include="template\img\logo\herts.gif" />
+    <Content Include="template\img\logo\logo.png" />
+    <Content Include="template\img\logo\logo1.png" />
+    <Content Include="template\img\logo\society.gif" />
+    <Content Include="template\img\service\svAss.jpg" />
+    <Content Include="template\img\service\svEMS.jpg" />
+    <Content Include="template\img\service\svInjury.jpg" />
+    <Content Include="template\img\service\svManual.jpg" />
+    <Content Include="template\img\service\svMassage.jpg" />
+    <Content Include="template\img\service\svOther.jpg" />
+    <Content Include="template\img\service\svRehab.jpg" />
+    <Content Include="template\img\service\svStrength.jpg" />
+    <Content Include="template\img\service\svUltra.jpg" />
     <Content Include="template\js\modernizr.custom.js" />
     <Content Include="Web.config" />
   </ItemGroup>
