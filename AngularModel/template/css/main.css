@@ -101,7 +101,7 @@ body {
 
 .row {
 margin-right: 0px;
-margin-left: -15px;
+margin-left: 0px;
 }
 
 .modal-header {
@@ -317,7 +317,6 @@ a:after {
 	background: #ecebe9;
 	margin-top: 0px;
 	padding-top: 40px;
-	border-bottom: 1px solid #ddd;
 	text-align: center;
 }
 
@@ -603,8 +602,7 @@ a:after {
 }
 
 .blog-content {
-	padding-top: 10px;
-	background: #f2f2f2;
+	background: #ecebe9;
 }
 
 
