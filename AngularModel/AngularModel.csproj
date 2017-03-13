@@ -43,6 +43,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="angular\controllers\AboutController.js" />
+    <Content Include="angular\views\about.html" />
     <Content Include="packages.config" />
     <Content Include="lib\fonts\.DS_Store" />
     <Content Include="lib\fonts\glyphicons-halflings-regular.eot" />

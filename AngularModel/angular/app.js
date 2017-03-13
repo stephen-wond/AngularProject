@@ -5,6 +5,8 @@
         $routeProvider
             .when("/home",
                 { templateUrl: "/angular/views/home.html", controller: "HomeController" })
+            .when("/about",
+                { templateUrl: "/angular/views/about.html", controller: "AboutController" })
             .when("/services",
                 { templateUrl: "/angular/views/services.html", controller: "ServicesController" })
             .when("/contact",
