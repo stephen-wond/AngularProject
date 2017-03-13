@@ -63,6 +63,9 @@ body {
 
  img {
     vertical-align: middle;
+/*Here*/
+    display: inline-block;
+    margin: 0 auto;
 }
 
 /*
@@ -311,7 +314,7 @@ a:after {
 }
 
 #greywrap {
-	background: #f5f5f5;
+	background: #ecebe9;
 	margin-top: 0px;
 	padding-top: 40px;
 	border-bottom: 1px solid #ddd;
