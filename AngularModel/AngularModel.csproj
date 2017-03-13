@@ -96,6 +96,8 @@
     <Content Include="template\img\bg\divider3.jpg" />
     <Content Include="template\img\bg\divider4.jpg" />
     <Content Include="template\img\header_bg.jpg" />
+    <Content Include="template\img\Headshot-sm.png" />
+    <Content Include="template\img\Headshot.png" />
     <Content Include="template\img\iphone.png" />
     <Content Include="template\img\macbook.png" />
     <Content Include="template\img\portfolio\folio01.jpg" />
