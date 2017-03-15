@@ -105,6 +105,9 @@
     <Content Include="template\img\services\svRehab.jpg" />
     <Content Include="template\img\services\svStrength.jpg" />
     <Content Include="template\img\services\svUltra.jpg" />
+    <Content Include="template\js\contact_me.js" />
+    <Content Include="template\js\contact_me.php" />
+    <Content Include="template\js\jqBootstrapValidation.js" />
     <Content Include="template\js\modernizr.custom.js" />
     <Content Include="Web.config" />
   </ItemGroup>
