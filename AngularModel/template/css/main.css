@@ -418,12 +418,11 @@ a:after {
 }
 
 .divider3 {
-	background-image: url('../img/bg/divider3.jpg');
-	margin-top: 0px;
+	background-image: url('../img/bg/bgContact.jpg');
 }
 
 .divider4 {
-	background-image: url('../img/bg/divider4.jpg')
+	background-image: url('../img/bg/bgHeader.jpg');
 }
 
 
