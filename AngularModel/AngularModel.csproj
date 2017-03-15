@@ -50,6 +50,10 @@
     <Content Include="lib\fonts\glyphicons-halflings-regular.eot" />
     <Content Include="lib\fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="lib\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="template\img\bg\bgContact.jpg" />
+    <Content Include="template\img\bg\bgHeader.jpg" />
+    <Content Include="template\img\bg\bgPrices.jpg" />
+    <Content Include="template\img\bg\bgTestimonial.jpg" />
     <Content Include="template\css\icomoon\.DS_Store" />
     <Content Include="template\css\icomoon\icomoon-.eot" />
     <Content Include="template\css\icomoon\icomoon.eot" />
