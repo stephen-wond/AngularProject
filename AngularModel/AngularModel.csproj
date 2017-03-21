@@ -45,17 +45,17 @@
   <ItemGroup>
     <Content Include="angular\controllers\AboutController.js" />
     <Content Include="angular\views\about.html" />
+    <Content Include="lib\fonts\glyphicons-halflings-regular.svg" />
     <Content Include="packages.config" />
-    <Content Include="lib\fonts\.DS_Store" />
-    <Content Include="lib\fonts\glyphicons-halflings-regular.eot" />
-    <Content Include="lib\fonts\glyphicons-halflings-regular.ttf" />
-    <Content Include="lib\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="template\css\icomoon\icomoon.svg" />
     <Content Include="template\img\bg\bgContact.jpg" />
     <Content Include="template\img\bg\bgHeader.jpg" />
     <Content Include="template\img\bg\bgPrices.jpg" />
     <Content Include="template\img\bg\bgTestimonial.jpg" />
-    <Content Include="template\css\icomoon\.DS_Store" />
-    <Content Include="template\css\icomoon\icomoon-.eot" />
+    <Content Include="lib\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="lib\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="lib\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="lib\fonts\glyphicons-halflings-regular.woff2" />
     <Content Include="template\css\icomoon\icomoon.eot" />
     <Content Include="template\css\icomoon\icomoon.ttf" />
     <Content Include="template\css\icomoon\icomoon.woff" />
@@ -79,7 +79,6 @@
     <Content Include="index.html" />
     <Content Include="lib\bs\bootstrap-theme.min.css" />
     <Content Include="lib\bs\bootstrap.min.css" />
-    <Content Include="lib\fonts\glyphicons-halflings-regular.svg" />
     <Content Include="lib\js\angular-route.min.js" />
     <Content Include="lib\js\angular.min.js" />
     <Content Include="lib\js\bootstrap.min.js" />
@@ -90,7 +89,6 @@
     <Content Include="lib\js\retina.min.js" />
     <Content Include="template\css\animate-custom.css" />
     <Content Include="template\css\icomoon.css" />
-    <Content Include="template\css\icomoon\icomoon.svg" />
     <Content Include="template\css\main.css" />
     <Content Include="template\img\logos\dons.gif" />
     <Content Include="template\img\logos\HDNut.gif" />
@@ -133,7 +131,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>51473</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:51473/</IISUrl>
+          <IISUrl>http://localhost:51474/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
