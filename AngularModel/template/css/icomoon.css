@@ -1,41 +1,27 @@
 @font-face {
-	font-family: 'icomoon';
-	src:url('icomoon/icomoon.eot');
-	src:url('icomoon/icomoon-.eot#iefix') format('embedded-opentype'),
-		url('icomoon/icomoon.woff') format('woff'),
-		url('icomoon/icomoon.ttf') format('truetype'),
-		url('icomoon/icomoon.svg.txt#icomoon') format('svg');
-	font-weight: normal;
-	font-style: normal;
+  font-family: 'icomoon';
+  src:  url('icomoon/icomoon.eot?8ra189');
+  src:  url('icomoon/icomoon.eot?8ra189#iefix') format('embedded-opentype'),
+    url('icomoon/icomoon.ttf?8ra189') format('truetype'),
+    url('icomoon/icomoon.woff?8ra189') format('woff'),
+    url('icomoon/icomoon.svg?8ra189#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
 }
 
-/* Use the following CSS code if you want to use data attributes for inserting your icons */
-[data-icon]:before {
-	font-family: 'icomoon';
-	content: attr(data-icon);
-	speak: none;
-	font-weight: normal;
-	font-variant: normal;
-	text-transform: none;
-	line-height: 1;
-	-webkit-font-smoothing: antialiased;
-}
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
 
-/* Use the following CSS code if you want to have a class per icon */
-/*
-Instead of a list of all class selectors,
-you can use the generic selector below, but it's slower:
-[class*="icon-"] {
-*/
-.icon-home, .icon-phone, .icon-envelop, .icon-location, .icon-location2, .icon-mobile, .icon-facebook, .icon-facebook2, .icon-instagram, .icon-youtube, .icon-linkedin, .icon-linkedin2 {
-	font-family: 'icomoon';
-	speak: none;
-	font-style: normal;
-	font-weight: normal;
-	font-variant: normal;
-	text-transform: none;
-	line-height: 1;
-	-webkit-font-smoothing: antialiased;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 .icon-home:before {
@@ -53,8 +39,35 @@ you can use the generic selector below, but it's slower:
 .icon-location2:before {
   content: "\e948";
 }
+.icon-compass:before {
+  content: "\e949";
+}
 .icon-mobile:before {
   content: "\e958";
+}
+.icon-bubble:before {
+  content: "\e96b";
+}
+.icon-bubble2:before {
+  content: "\e96e";
+}
+.icon-menu:before {
+  content: "\e9bd";
+}
+.icon-menu3:before {
+  content: "\e9bf";
+}
+.icon-star-empty:before {
+  content: "\e9d7";
+}
+.icon-star-half:before {
+  content: "\e9d8";
+}
+.icon-star-full:before {
+  content: "\e9d9";
+}
+.icon-paragraph-justify:before {
+  content: "\ea7a";
 }
 .icon-facebook:before {
   content: "\ea90";
@@ -74,3 +87,7 @@ you can use the generic selector below, but it's slower:
 .icon-linkedin2:before {
   content: "\eaca";
 }
+.icon-paypal:before {
+  content: "\ead8";
+}
+
