@@ -364,11 +364,11 @@ ul.social-buttons li a:active {
 }
 
 #footerwrap {
-	background: #2b2b2b;
+	background: #222222;
 	margin-top: 0px;
 	padding-top: 40px;
 	padding-bottom: 20px;
-	border-bottom: 1px solid #ddd;
+	border-bottom: 1px solid #222222;
 	text-align: center;
 }
 
@@ -396,7 +396,7 @@ ul.social-buttons li a:active {
     width: 100%;
     display: table;
     max-height: 450px;
-    border-bottom: 2px solid #E6EAED;
+    border-bottom: 2px solid #f32929;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
