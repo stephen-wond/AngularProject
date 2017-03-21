@@ -90,10 +90,9 @@
     <Content Include="template\css\animate-custom.css" />
     <Content Include="template\css\icomoon.css" />
     <Content Include="template\css\main.css" />
+    <Content Include="template\img\Headshot.png" />
     <Content Include="template\img\logos\dons.gif" />
     <Content Include="template\img\logos\HDNut.gif" />
-    <Content Include="template\img\Headshot-sm.png" />
-    <Content Include="template\img\Headshot.png" />
     <Content Include="template\img\logos\herts.gif" />
     <Content Include="template\img\logos\logo.png" />
     <Content Include="template\img\logos\logo1.png" />
