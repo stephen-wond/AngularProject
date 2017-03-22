@@ -18,7 +18,8 @@ button,
 input,
 select,
 textarea {
-    color: #222;
+    color: #c83030;
+    font-size: 25px;
 }
 
 body {
@@ -33,14 +34,14 @@ body {
  */
 
 ::-moz-selection {
-    background: #f2c2c9;
-    color: #a4003a;
+    background: #c83030;
+    color: #ffffff;
     text-shadow: none;
 }
 
 ::selection {
-    background: #16a085;
-    color: #a4003a;
+    background: #c83030;
+    color: #ffffff;
     text-shadow: none;
 }
 
@@ -236,7 +237,7 @@ blockquote cite:before {
 
 /* Links */
 a {
-    color: #3498db;
+    color: #c83030;
     word-wrap: break-word;
 
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -248,7 +249,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #c0392b;
+    color: #f32929;
     text-decoration: none;
     outline: 0;
 }
